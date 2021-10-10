@@ -27,7 +27,7 @@ for b in range(1,s+1):
 print("w=",w)
 print("u=",u)
 print(ml)
-if w==3 and u==1:
+if w>=3 and u>=1:
     print("You win the second prize")
 elif ml==[2,0,2,2]:
     print("You are the lucky guy!")
